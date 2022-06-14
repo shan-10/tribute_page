@@ -1,6 +1,8 @@
 # tribute_page
 Tribute_page freeCodeCamp
 
+**https://shan-10.github.io/tribute_page/tribute%20CR7/**
+
 ![image](https://user-images.githubusercontent.com/79769716/167107576-d4600c1e-c95e-4d93-844d-78385430db05.png)
 
 
